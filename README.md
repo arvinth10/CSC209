@@ -1,3 +1,2 @@
 # CSC209
-
-CSC209(Software Tool and Systems Programming) assignment and exercise files
+All assignment and exercise files from CSC209(Software Tool and Systems Programming).
